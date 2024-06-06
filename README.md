@@ -1,2 +1,2 @@
 # css_basics
-ejercicios css nivel básico
+selectores,propiedades color, fuentes, border.
